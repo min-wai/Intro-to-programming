@@ -3,4 +3,4 @@ def scream(words)
   puts words
 end
 
-puts scream("Mothafuckas")
+puts scream("Sorry")
